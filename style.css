@@ -23,7 +23,7 @@ img {
     justify-self:center;
 }
 header {
-    background: yellow;
+    background: yello;
     padding: 1em;
     grid-area: header;
 }
